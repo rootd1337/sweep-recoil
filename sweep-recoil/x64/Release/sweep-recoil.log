@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 75 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  sweep-recoil.vcxproj -> C:\Users\Root\Desktop\sweep-recoil\sweep-recoil\x64\Release\sweep-recoil.exe
